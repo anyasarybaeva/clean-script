@@ -1,5 +1,6 @@
 # clean-script
 ## Usage
 ```bash
-   clean
+   chmod 777 clean.sh
+   ./clean.sh
 ```
